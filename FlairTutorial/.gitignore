@@ -1,0 +1,4 @@
+models/*
+classifier/*
+resources/*
+.ipynb_checkpoints*
